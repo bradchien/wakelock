@@ -1,3 +1,7 @@
+## 0.6.4
+
+* Due to dependency issue, disable window support
+
 ## 0.6.3
 
 * Fixed Android build issues.
