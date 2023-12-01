@@ -1,3 +1,7 @@
+## 0.6.5
+
+* To support tvOS
+
 ## 0.6.4
 
 * Fixed Android build issues.
