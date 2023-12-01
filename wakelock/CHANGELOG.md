@@ -1,3 +1,7 @@
+## 0.6.3
+
+* Fixed Android build issues.
+
 ## 0.6.2
 
 * Fixed Android build issues.

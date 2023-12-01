@@ -2,18 +2,18 @@ name: wakelock
 description: >-2
   Plugin that allows you to keep the device screen awake, i.e. prevent the screen from sleeping on
   Android, iOS, macOS, Windows, and web.
-version: 0.6.2
+version: 0.6.3
 repository: https://github.com/yehuda-noiman/wakelock/tree/main/wakelock
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
-  flutter: '>=2.0.0'
+  sdk: '>=2.12.0 <4.0.0'
+  flutter: '>=3.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
 
-  meta: ^1.2.0
+  meta: ^1.9.1
 
   wakelock_macos: ^0.4.0
   wakelock_platform_interface: ^0.3.0
@@ -28,7 +28,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_lints: ^1.0.4
+  flutter_lints: ^3.0.1
   pigeon: ^1.0.2 # flutter pub run pigeon --input "pigeons/messages.dart"
 
 flutter:
