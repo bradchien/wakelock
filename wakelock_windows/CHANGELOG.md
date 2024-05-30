@@ -1,5 +1,9 @@
 ## 0.2.1
 
+* Bumped the `win32` dependency from `^3.0.0` to `^4.0.0`.
+
+## 0.2.1
+
 * Bumped the `win32` dependency from `^2.0.0` to `^3.0.0`.
 
 ## 0.2.0

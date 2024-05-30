@@ -1,3 +1,7 @@
+## 0.6.6
+
+* fix win32 issue
+
 ## 0.6.5
 
 * To support tvOS
